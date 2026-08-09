@@ -1,0 +1,51 @@
+drug_id,approval_id,sponsor_company,drug_name,drug_type,therapy_area,peak_sales_usd_bn_est,description
+1,APP0699,AbbVie,Olamyr-zumab,cell_therapy,psychiatry,0.36,FDA approval — psychiatry cell_therapy
+2,APP0668,Acadia,Benlir-pril,small_mol,oncology,1.13,FDA approval — oncology small_mol
+3,APP0674,Acadia,Yarxyl-stat,gene_therapy,infectious,1.91,FDA approval — infectious gene_therapy
+4,APP0685,Alkermes,Kimmyr-pril,biologic,oncology,0.13,FDA approval — oncology biologic
+5,APP0669,Alnylam,Myrqul-pril,small_mol,immunology,0.85,FDA approval — immunology small_mol
+6,APP0694,Alnylam,Corsol-sertib,small_mol,oncology,0.53,FDA approval — oncology small_mol
+7,APP0672,Amgen,Tevjav-mab,small_mol,rare_disease,5.41,FDA approval — rare_disease small_mol
+8,APP0693,AstraZeneca,Durtev-cel,small_mol,respiratory,0.03,FDA approval — respiratory small_mol
+9,APP0684,AstraZeneca,Xylwer-vir,gene_therapy,oncology,0.2,FDA approval — oncology gene_therapy
+10,APP0673,Bayer,Nevxyl-mab,small_mol,oncology,0.06,FDA approval — oncology small_mol
+11,APP0713,Bayer,Tevben-pril,small_mol,rare_disease,0.32,FDA approval — rare_disease small_mol
+12,APP0708,BioMarin,Ravzol-cept,small_mol,infectious,0.03,FDA approval — infectious small_mol
+13,APP0689,BioMarin,Tevesp-cept,small_mol,neurology,0.34,FDA approval — neurology small_mol
+14,APP0702,BioMarin,Tevben-mab,small_mol,immunology,0.42,FDA approval — immunology small_mol
+15,APP0041,Daiichi/AstraZeneca,Datroway,biologic,oncology,3,TROP2 ADC for breast cancer
+16,APP0042,Eli Lilly,Tryptyr,small_mol,metabolic,6,Oral GLP-1 (orforglipron)
+17,APP0679,Gilead,Tevile-tinib,small_mol,infectious,0.39,FDA approval — infectious small_mol
+18,APP0676,Incyte,Vorile-lozide,small_mol,oncology,2.44,FDA approval — oncology small_mol
+19,APP0691,Incyte,Myrzol-mab,biologic,dermatology,0.14,FDA approval — dermatology biologic
+20,APP0711,Ionis,Xanben-nib,small_mol,oncology,0.35,FDA approval — oncology small_mol
+21,APP0670,Johnson & Johnson,Solqul-stat,biologic,oncology,0.01,FDA approval — oncology biologic
+22,APP0707,Johnson & Johnson,Xylcor-nib,biologic,oncology,0.15,FDA approval — oncology biologic
+23,APP0675,Jazz Pharma,Benmyr-cel,small_mol,infectious,0.04,FDA approval — infectious small_mol
+24,APP0715,Jazz Pharma,Zolzol-nib,small_mol,oncology,0.03,FDA approval — oncology small_mol
+25,APP0696,Karuna,Solesp-zumab,small_mol,cardiovascular,0.03,FDA approval — cardiovascular small_mol
+26,APP0700,Karuna,Ilelir-cept,small_mol,infectious,0.09,FDA approval — infectious small_mol
+27,APP0695,Madrigal,Ravtev-rab,small_mol,oncology,0.01,FDA approval — oncology small_mol
+28,APP0714,Madrigal,Urbjav-lozide,small_mol,rare_disease,0.46,FDA approval — rare_disease small_mol
+29,APP0681,Merck,Myrrav-lozide,small_mol,infectious,1.33,FDA approval — infectious small_mol
+30,APP0686,Merck,Myrjav-nib,small_mol,immunology,3.49,FDA approval — immunology small_mol
+31,APP0712,Novartis,Corrav-tinib,biologic,rare_disease,0.5,FDA approval — rare_disease biologic
+32,APP0704,Novartis,Kimqul-rab,small_mol,metabolic,0.48,FDA approval — metabolic small_mol
+33,APP0678,Novartis,Durlir-vir,cell_therapy,oncology,0.46,FDA approval — oncology cell_therapy
+34,APP0698,Novartis,Prezol-sertib,cell_therapy,infectious,3.18,FDA approval — infectious cell_therapy
+35,APP0697,Novo Nordisk,Urbpre-mab,biologic,neurology,0.61,FDA approval — neurology biologic
+36,APP0687,Novo Nordisk,Preile-cel,small_mol,oncology,0.02,FDA approval — oncology small_mol
+37,APP0677,Novo Nordisk,Myrxyl-zumab,small_mol,rare_disease,0.23,FDA approval — rare_disease small_mol
+38,APP0709,Novo Nordisk,Xanzol-zumab,small_mol,cardiovascular,0.66,FDA approval — cardiovascular small_mol
+39,APP0690,Pfizer,Preabr-zumab,gene_therapy,oncology,2.26,FDA approval — oncology gene_therapy
+40,APP0682,Pfizer,Xanurb-fenib,small_mol,oncology,0.1,FDA approval — oncology small_mol
+41,APP0688,Reata,Iletev-stat,small_mol,infectious,1.85,FDA approval — infectious small_mol
+42,APP0692,Reata,Ilejav-tide,biologic,oncology,0.07,FDA approval — oncology biologic
+43,APP0710,Regeneron,Durwer-pril,vaccine,cardiovascular,0.04,FDA approval — cardiovascular vaccine
+44,APP0703,Roche,Abrlir-tide,small_mol,cardiovascular,0.03,FDA approval — cardiovascular small_mol
+45,APP0671,Roche,Durnev-tinib,biologic,immunology,0.04,FDA approval — immunology biologic
+46,APP0680,Sanofi,Qulqul-lozide,small_mol,oncology,0.07,FDA approval — oncology small_mol
+47,APP0706,Sanofi,Ilesol-fenib,biologic,neurology,0.71,FDA approval — neurology biologic
+48,APP0683,Takeda,Ravvor-tide,biologic,cardiovascular,8.09,FDA approval — cardiovascular biologic
+49,APP0701,Travere,Abrgar-tide,biologic,neurology,0.04,FDA approval — neurology biologic
+50,APP0705,Vertex,Benile-vir,small_mol,immunology,0.11,FDA approval — immunology small_mol
