@@ -5,7 +5,7 @@ Tools Used
 1. Excel - data cleaning
 2. SQL - exploratory analysis
 3. Tableau - dashboard design
-4. 
+
 I taught myself Tableau this summer through tutorials and examples from other creators on LinkedIn, and this project helped me apply what I've been learning.
 
 Key Insights
